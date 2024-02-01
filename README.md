@@ -5,19 +5,19 @@
 - [D. How to Run Program](#d-how-to-run-program) ▶️
 - [E. Versioning](#e-versioning) 🔄
 
-# A. Project Title 🤖
+## A. Project Title 🤖
 
 Hello-World Repository
 
-# B. Description ℹ️
+## B. Description ℹ️
 
 This repository serves as a starting point for learning how to create a basic project on GitHub and using Markdown styles for documentation.
 
-# C. Files Used 📁
+## C. Files Used 📁
 
 - README.md
 
-# D. How to Run Program ▶️
+## D. How to Run Program ▶️
 
 To run the program, follow these steps:
 
@@ -26,5 +26,5 @@ To run the program, follow these steps:
 3. Run the main.py file using Python.
 4. The program will execute and display the output.
 
-# E. Versioning 🔄
+## E. Versioning 🔄
 Any versioning changes used will be discussed here. 
