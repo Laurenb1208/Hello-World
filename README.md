@@ -11,7 +11,7 @@ Hello-World Repository
 
 # B. Description ℹ️
 
-This repository serves as a starting point for learning how to create a basic project on GitHub and using Markdown syntax for documentation.
+This repository serves as a starting point for learning how to create a basic project on GitHub and using Markdown styles for documentation.
 
 # C. Files Used 📁
 
