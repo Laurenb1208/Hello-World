@@ -1,26 +1,30 @@
 # Table of Contents
-1. [Project Title](#1-project-title)
-2. [Description](#2-description)
-3. [Files Used](#3-files-used)
-4. [How to Run Program](#4-how-to-run-program)
-# 1. Project Title
+- [A. Project Title](#a-project-title) 🤖 
+- [B. Description](#b-description) ℹ️
+- [C. Files Used](#c-files-used) 📁
+- [D. How to Run Program](#d-how-to-run-program) ▶️
+- [E. Versioning](#e-versioning) 🔄
+
+# A. Project Title 🤖
 
 Hello-World Repository
 
-# 2. Description
+# B. Description ℹ️
 
 This repository serves as a starting point for learning how to create a basic project on GitHub and using Markdown syntax for documentation.
 
-# 3. Files Used
+# C. Files Used 📁
 
 - README.md
 
-# 4. How to Run Program
+# D. How to Run Program ▶️
 
 To run the program, follow these steps:
 
-1. Clone the repository to your local machine:
-2.  Navigate to the project directory:
-3.  Run the main.py file using Python:
+1. Clone the repository to your local machine.
+2. Navigate to the project directory.
+3. Run the main.py file using Python.
 4. The program will execute and display the output.
 
+# E. Versioning 🔄
+Any versioning used will be disccued here. 
