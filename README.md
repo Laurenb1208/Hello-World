@@ -27,4 +27,4 @@ To run the program, follow these steps:
 4. The program will execute and display the output.
 
 # E. Versioning 🔄
-Any versioning used will be disccued here. 
+Any versioning changes used will be discussed here. 
